@@ -1,0 +1,14 @@
+0
+Sabbir
+2345
+21
+Male
+Asik
+1
+Flu
+0
+Fever
+1
+Medi2
+0
+Napa
